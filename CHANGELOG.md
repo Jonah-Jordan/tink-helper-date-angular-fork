@@ -16,6 +16,13 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 
 
+## [1.0.1] - 2015-06-08
+
+### Fixed
+- Possible fix for failing build
+
+
+
 ## [1.0.0] - 2015-04-22
 
 Initial release

@@ -1,10 +1,10 @@
 # Tink Angular date helper
 
-v1.0.0
+v1.0.1
 
 ## What is this repository for?
 
-The Tink Angular date helper helps with dates.
+The Tink Angular date helper helps with dates, even better than in the initial version.
 
 Tink is an in-house developed easy-to-use front end framework for quick prototyping and simple deployment of all kinds of websites and apps, keeping a uniform and consistent look and feel.
 
