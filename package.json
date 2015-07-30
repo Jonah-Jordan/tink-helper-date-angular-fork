@@ -1,7 +1,7 @@
 {
   "name": "tink-helper-date-angular",
   "description": "Tink Angular date helper",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "repository": {
     "type": "git",
     "url": "git@github.com:tinkkit/tink-helper-date-angular.git"
