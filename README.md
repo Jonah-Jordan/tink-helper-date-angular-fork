@@ -1,6 +1,6 @@
 # Tink Angular date helper
 
-v1.0.3
+v1.0.2
 
 ## What is this repository for?
 
