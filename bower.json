@@ -1,6 +1,6 @@
 {
   "name": "tink-helper-date-angular",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": [
     "dist/tink-helper-date-angular.js"
   ],
