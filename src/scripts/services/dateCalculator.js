@@ -203,7 +203,7 @@
       return new Date(year, month, 0).getDate();
     },
     format: function (date, format) {
-      if(date === null || date === undefined || date === ''){
+      if(date === null || date === undefined || date === '' || date == 'Invalid Date'){
         return null;
       }else{
         return dateFormat(date, format, null, nl);

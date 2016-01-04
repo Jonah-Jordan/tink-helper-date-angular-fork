@@ -13,6 +13,10 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 ### Fixed
 ### Security
 -->
+## [1.0.3] - 2015-07-29
+
+### Fixed
+- Fixed Invalid date problem when parsing dates.
 
 ## [1.0.2] - 2015-07-29
 
